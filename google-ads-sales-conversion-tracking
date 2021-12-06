@@ -1,0 +1,9 @@
+<!-- Event snippet for Satış conversion page -->
+<script>
+  gtag('event', 'conversion', {
+      'send_to': 'AW-853598924/Vu-4COuO_ocDEMzFg5cD',
+      'value': SİPARİŞ TUTARI,
+      'currency': 'TRY',
+      'transaction_id': 'SİPARİŞ ID'
+  });
+</script>
